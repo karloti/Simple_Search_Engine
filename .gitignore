@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Printing arguments/out/
+/Problems/Printing arguments/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
